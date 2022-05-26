@@ -1,0 +1,8 @@
+Initialization - git init
+adding content - git add .
+Commiting - git commit -m "comment"
+Push - git push -u origin main
+change directory - cd
+open list - ls
+Checking status -git status
+Some more - git log,git pull
